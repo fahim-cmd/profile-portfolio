@@ -10,13 +10,15 @@ h4{
 h1{
 font-size: 35px;
 color: rgb(65, 156, 100);
-
+}
+#name_md{
+    color: rgb(241, 86, 86);
 }
 p{    
     font-weight: 500;
 }
 section{
-    height: 550px;    
+    height: 550px;         
 }
 .user_details{
     width: 40%;
@@ -50,11 +52,17 @@ h2{
     font-size: 30px;
     color: rgb(65, 156, 100);
     text-align: center;
+    letter-spacing: 3px;
+}
+.heading{
+    text-align: center;
 }
 .image_details img{
     height: 250px;
     width: 30%;
     margin: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(102, 101, 101);
 }
 /*--------------------------------------------------------Forth section-----------------------------------------------------------*/
 .contact_information_details{
