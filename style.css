@@ -20,6 +20,11 @@ p{
 section{
     height: 550px;         
 }
+.first_sec{
+    background-image: url("pictures/color.png");
+    background-repeat: no-repeat;
+    background-size: 270px;   
+}
 .user_details{
     width: 40%;
     display: inline-block;
