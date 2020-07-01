@@ -1,0 +1,85 @@
+body{
+    background-color:rgb(231, 255, 237);
+    margin: 0%;
+    padding: 0%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+h4{
+    font-size: 20px;
+}
+h1{
+font-size: 35px;
+color: rgb(65, 156, 100);
+
+}
+p{    
+    font-weight: 500;
+}
+section{
+    height: 550px;    
+}
+.user_details{
+    width: 40%;
+    display: inline-block;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+.user_details img{
+    height: 70%;
+    width: 60%;
+    margin-left: 25%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(102, 101, 101);
+}
+.link_button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, rgb(6, 204, 105), rgb(255, 49, 49));
+        color: snow;
+        font-weight: 700;
+        padding: 10px 20px;
+        border-radius: 10px;  
+}
+/*---------------------------------------------------------second section--------------------------------------------------------------------*/
+h2{
+    font-size: 30px;
+    color: rgb(65, 156, 100);
+}
+/*---------------------------------------------------------Third section-------------------------------------------------------------*/
+.work_heading{
+    font-size: 30px;
+    color: rgb(65, 156, 100);
+    text-align: center;
+}
+.image_details img{
+    height: 250px;
+    width: 30%;
+    margin: 20px;
+}
+/*--------------------------------------------------------Forth section-----------------------------------------------------------*/
+.contact_information_details{
+    text-align: center;
+}
+.who_i_am{
+    font-size: 10px;
+    color: rgba(119, 136, 153, 0.979);
+}
+.email_box{
+    color: white;
+    text-align: center;
+    border-radius: 10px;   
+    margin-left: 33%;
+    margin-right: 33%;
+    background-color: rgb(6, 204, 105);
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.email_color{
+    letter-spacing: 3px;
+    color: blue;
+    text-decoration: none;
+
+}
+#special_message{
+    font-size: 12px;    
+}
